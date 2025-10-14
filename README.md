@@ -5,3 +5,4 @@ This repo contains my code for the [100 Days of Code](https://www.udemy.com/cour
 ## 📅 Progress
 
 - ✅ Day 1: [Band Name Generator](day_1/band_name_generator.py)
+- ✅ Day 2: [Tip Calculator](day_2/tip_calculator.py)
