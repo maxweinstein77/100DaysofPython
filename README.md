@@ -9,3 +9,4 @@ This repo contains my code for the [100 Days of Code](https://www.udemy.com/cour
 - ✅ Day 3: [Lake Crossing](day_3/lake_crossing.py)
 - ✅ Day 4: [Rock Paper Scissors](day_4/rock_paper_scissors.py)
 - ✅ Day 5: [Random Password Generator](day_5/random_password_generator.py)
+- ✅ Day 6: [Reeborg's World](day_6/reeborg_world.py)
