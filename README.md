@@ -2,12 +2,6 @@
 
 This repo contains my Python projects from the [100 Days of Code](https://www.udemy.com/course/100-days-of-code/) course.
 
-## 📅 Progress
+## 🧩 Projects
 
-- ✅ Day 1: [Band Name Generator](day_1/hello_world.py)
-- ✅ Day 2: [Tip Calculator](day_2/tip_calculator.py)
-- ✅ Day 3: [Lake Crossing](day_3/lake_crossing.py)
-- ✅ Day 4: [Rock Paper Scissors](day_4/rock_paper_scissors.py)
-- ✅ Day 5: [Random Password Generator](day_5/random_password_generator.py)
-- ✅ Day 6: [Reeborg's World](day_6/reeborg_world.py)
-- ✅ Day 7: [Hangman](day_7/hangman.py)
+1. [Hello World](day_1/hello_world.py)
