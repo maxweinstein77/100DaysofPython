@@ -1,6 +1,6 @@
 # 100 Days of Code
 
-This repo contains my Python projects for the [100 Days of Code](https://www.udemy.com/course/100-days-of-code/) course.
+This repo contains my Python projects from the [100 Days of Code](https://www.udemy.com/course/100-days-of-code/) course.
 
 ## 📅 Progress
 
