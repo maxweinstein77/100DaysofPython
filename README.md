@@ -9,3 +9,4 @@ This repo contains my Python projects from the [100 Days of Code](https://www.ud
 3. [Triple Hello World](day_1/p3_triple_hello_world.py)
 4. [Hello Angela](day_1/p4_hello_angela.py)
 5. [Day One Notes](day_1/p5_day_one_notes.py)
+6. [Hello Name](day_1/p6_hello_name.py)
