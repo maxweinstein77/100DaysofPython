@@ -12,3 +12,4 @@ This repo contains my Python projects from the [100 Days of Code](https://www.ud
 6. [Hello Name](day_1/p6_hello_name.py)
 7. [Length of Name](day_1/p7_length_of_name.py)
 8. [Band Name Generator](day_1/p8_band_name_generator.py)
+9. [Free Time Calculator](day_1/p9_free_time_calculator.py)
